@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, MongoDB, Docker**
 
-- 👨‍💻 All of my projects are available at [cv.martin-vogt.ch](cv.martin-vogt.ch)
+- 👨‍💻 All of my projects are available at [cv.martin-vogt.ch](https://cv.martin-vogt.ch)
 
 - 📫 How to reach me **info@martin-vogt.ch**
 
