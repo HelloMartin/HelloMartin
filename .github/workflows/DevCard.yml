@@ -1,3 +1,5 @@
+name: DevCard
+
 on:
   workflow_dispatch:
   push:
@@ -5,7 +7,8 @@ on:
       - main
   schedule:
     - cron: "0 0 * * *"
-  jobs:
+
+jobs:
   devcard:
     runs-on: ubuntu-latest
     steps:
