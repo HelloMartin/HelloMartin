@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hellomartin&show_icons=true&locale=en" alt="hellomartin" /></p>
 
-<a href="https://app.daily.dev/HelloMartin"><img src="https://api.daily.dev/devcards/cbe89d72286f45df8341b0dc8a10c44f.png?r=y5y" width="400" alt="Martin Vogt's Dev Card"/></a>
+<a href="https://app.daily.dev/HelloMartin"><img src="https://github.com/HelloMartin/HelloMartin/blob/master/devcard.svg" width="400" alt="Martin Vogt's Dev Card"/></a>
